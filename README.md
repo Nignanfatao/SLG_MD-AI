@@ -51,7 +51,7 @@ Deploy to Railway for a serverless experience and ease of use with GitHub integr
 ---
 
 ### Termux Deployment
-[![Deploy on Termux](https://img.shields.io/badge/Deploy%20on-Termux-2CA5E0?style=for-the-badge&logo=shell&logoColor=white)](https://github.com/GEEKMDXINC/SLG_MD-AI/blob/master/media/termux.md)
+[![Deploy on Termux](https://img.shields.io/badge/Deploy%20on-Termux-2CA5E0?style=for-the-badge&logo=shell&logoColor=white)](https://github.com/GEEKMDXINC/SLG_MD-AI/blob/main/media%2Ftermux.md)
 
 For a more hands-on approach, deploy using Termux on Android for local control and offline capability.
 
