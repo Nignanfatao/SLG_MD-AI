@@ -66,3 +66,8 @@ Deploy using the Pterodactyl panel for an intuitive interface to manage multiple
 ## Warning
 
 This project is **NOT open source** and is **NOT for sale**. Any unauthorized distribution, copying, or use of this project’s code, assets, or any related content is strictly prohibited I keep my oath I do not have access and I will not steal your personal infomation.
+
+
+
+# `IF YOU COPIE MY SCRIPT I'LL BAN YOUR GITHUB AND WHATSAPP ACCOUNT`
+
