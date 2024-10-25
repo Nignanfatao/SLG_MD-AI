@@ -120,6 +120,7 @@ command(
     return await message.sendFile(buff);
   },
 );
+/*
 
 command(
   {
@@ -143,9 +144,9 @@ command(
       "video"
     );
   }
-);
-
-
+); */
+ 
+/*
 command(
   {
     pattern: "song",
@@ -169,7 +170,7 @@ command(
       "audio"
     );
   }
-);
+); */ 
 
 command(
   {
