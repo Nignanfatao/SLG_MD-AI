@@ -20,7 +20,7 @@ command(
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "1203637841612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "sᴏɴɢ ʟʏʀɪᴄs",
         },
       },
@@ -82,7 +82,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327812745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ɢᴏᴏɢʟᴇ sᴇᴀʀᴄʜ",
         },
       },
