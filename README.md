@@ -18,9 +18,9 @@
 </p>
 
 <br>
-
+<details>
 <p><h3>if your session have [ SLG~ ] remove this symbol in session var if you don't do it you will have ( SLG~)×2</h3></p><br>
-</detail>
+</details>
 ---
 
 ## Deployments Support
