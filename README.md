@@ -16,8 +16,11 @@
         <img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-green?style=for-the-badge&logo=whatsapp&logoColor=black"/>
     </a>
 </p>
-<p> if your session have [ SLG~ ] remove this symbol in session var </p>
-<detail>
+
+<br>
+
+<p> if your session have [ SLG~ ] remove this symbol in session var if you don't do it you will ( SLG~)×2 </p><br>
+</detail>
 ---
 
 ## Deployments Support
