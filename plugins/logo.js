@@ -16,7 +16,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "12036332612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ɢʟᴏssʏ sɪʟᴠᴇʀ",
         },
       },
@@ -41,7 +41,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "1203627841612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴡʀɪᴛᴇ ᴛᴇxᴛ",
         },
       },
@@ -66,7 +66,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327812745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ʙʟᴀᴄᴋᴘɪɴᴋ ʟᴏɢᴏ",
         },
       },
@@ -91,7 +91,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "1203633278612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ɢʟɪᴛᴄʜ ᴛᴇxᴛ",
         },
       },
@@ -116,7 +116,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327812745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴀᴅᴠᴀɴᴄᴇᴅ ɢʟᴏᴡ",
         },
       },
@@ -141,7 +141,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴛʏᴘᴏɢʀᴀᴘʜʏ ᴛᴇxᴛ",
         },
       },
@@ -166,7 +166,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327812745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴘɪxᴇʟ ɢʟɪᴛᴄʜ",
         },
       },
@@ -191,7 +191,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ɴᴇᴏɴ ɢʟɪᴛᴄʜ",
         },
       },
@@ -216,7 +216,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ɴɪɢᴇʀɪᴀɴ ꜰʟᴀɢ",
         },
       },
@@ -241,7 +241,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363321612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴀᴍᴇʀɪᴄᴀɴ ꜰʟᴀɢ",
         },
       },
@@ -266,7 +266,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327842745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴅᴇʟᴇᴛɪɴɢ ᴛᴇxᴛ",
         },
       },
@@ -291,7 +291,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327812745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ʙʟᴀᴄᴋᴘɪɴᴋ ꜱᴛʏʟᴇ",
         },
       },
@@ -316,7 +316,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ɢʟᴏᴡɪɴɢ ᴛᴇxᴛ",
         },
       },
@@ -341,7 +341,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327842745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴜɴᴅᴇʀᴡᴀᴛᴇʀ",
         },
       },
@@ -366,7 +366,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120367841612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ʟᴏɢᴏ ᴍᴀᴋᴇʀ",
         },
       },
@@ -391,7 +391,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327842745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴄᴀʀᴛᴏᴏɴ ꜱᴛʏʟᴇ",
         },
       },
@@ -416,7 +416,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "12036332784745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴘᴀᴘᴇʀ ᴄᴜᴛ",
         },
       },
@@ -441,7 +441,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "1203633841612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴡᴀᴛᴇʀᴄᴏʟᴏʀ",
         },
       },
@@ -466,7 +466,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴇꜰꜰᴇᴄᴛ ᴄʟᴏᴜᴅꜱ",
         },
       },
@@ -491,7 +491,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "12036332782745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ɢʀᴀᴅɪᴇɴᴛ ᴛᴇxᴛ",
         },
       },
@@ -516,7 +516,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "1203633271612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ꜱᴜᴍᴍᴇʀ ʙᴇᴀᴄʜ",
         },
       },
@@ -541,7 +541,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "1203633241612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ʟᴜxᴜʀʏ ɢᴏʟᴅ",
         },
       },
@@ -566,7 +566,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327812745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴍᴜʟᴛɪᴄᴏʟᴏʀᴇᴅ",
         },
       },
@@ -591,7 +591,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "1203633278412745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ꜱᴀɴᴅ ꜱᴜᴍᴍᴇʀ",
         },
       },
@@ -616,7 +616,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363321612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ꜱᴀɴᴅsᴜᴍᴍᴇʀ",
         },
       },
@@ -641,7 +641,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ɢᴀʟᴀxʏ",
         },
       },
@@ -666,7 +666,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "1𝟗𝟏𝟕",
         },
       },
@@ -691,7 +691,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327841612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴍᴀᴋɪɴɢ ɴᴇᴏɴ",
         },
       },
@@ -716,7 +716,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "12036332712745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴛᴇxᴛ ᴇꜰꜰᴇᴄᴛ",
         },
       },
@@ -741,7 +741,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ɢᴀlᴀxʏ ꜱᴛʏʟᴇ",
         },
       },
@@ -766,7 +766,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "1203633271612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ʙʟᴀᴄᴋᴘɪɴᴋ ꜱᴛʏʟᴇ",
         },
       },
@@ -791,7 +791,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363321612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ɢʟᴏᴡɪɴɢ ᴛᴇxᴛ",
         },
       },
@@ -816,7 +816,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327812745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴀᴅᴠᴀɴᴄᴇᴅ ɢʟᴏᴡ",
         },
       },
@@ -841,7 +841,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327841745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ɢʟᴏssʏ ꜱɪʟᴠᴇʀ",
         },
       },
@@ -866,7 +866,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327612745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ᴡʀɪᴛɪɴɢ ᴛᴇxᴛ",
         },
       },
@@ -891,7 +891,7 @@ command(
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363327812745@newsletter",
+          newsletterJid: "120363350159688817@newsletter",
           newsletterName: "ʙʟᴀᴄᴋᴘɪɴᴋ ʟᴏɢᴏ",
         },
       },
