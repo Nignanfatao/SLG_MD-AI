@@ -10,7 +10,7 @@ module.exports = {
       : "[.]",
   BOT_INFO: process.env.BOT_INFO || "SLG;SLG-MD;https://files.catbox.moe/uih7xz.jpg", //YourName;BotName;Image/VideoLink
   SUDO: process.env.SUDO || "237693755398,237620066719",
-  TIME_ZONE: process.env.TIME_ZONE || "Africa/Cameroon",
+  TIME_ZONE: process.env.TIME_ZONE || "Africa/Lagos",
   LOGS: toBool(process.env.LOGS) || true,
   ANTILINK_ACTION: process.env.ANTI_LINK || "warm",
   BRANCH: "master",
