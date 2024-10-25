@@ -1,4 +1,4 @@
-const { command, mode, isAdmin } = require("../lib/");
+/* const { command, mode, isAdmin } = require("../lib/");
 const {
   addAntiWord,
   removeAntiWord,
@@ -45,4 +45,4 @@ command(
         );
     }
   },
-);
+); */
