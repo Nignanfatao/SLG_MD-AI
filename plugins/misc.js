@@ -208,7 +208,7 @@ command(
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: "1203633612745@newsletter",
+            newsletterJid: "120363350159688817@newsletter",
             newsletterName: "ᴀʟɪᴠᴇ ᴍsɢ",
           },
         },
