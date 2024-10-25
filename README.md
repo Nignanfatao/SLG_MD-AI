@@ -16,7 +16,8 @@
         <img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-green?style=for-the-badge&logo=whatsapp&logoColor=black"/>
     </a>
 </p>
-
+<p> if your session have [ SLG~ ] remove this symbol in session var </p>
+<detail>
 ---
 
 ## Deployments Support
@@ -29,7 +30,7 @@ Deploy to Heroku for a quick and easy setup, [Create Account](https://signup.her
 ---
 
 ### Koyeb Deployment
-[![Deploy on Koyeb](https://img.shields.io/badge/Deploy%20on-Koyeb-1DA1F2?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/services/deploy?type=docker&image=docker.io/fxastro/fxop-md&name=fxop-md-demo&env[SESSION_ID]=SLG~&env[BOT_INFO]=SLG;SLG-MD&env[SUDO]=2348039607375&env[ANTILINK]=true&env[PORT]=8000&service_type=worker)
+[![Deploy on Koyeb](https://img.shields.io/badge/Deploy%20on-Koyeb-1DA1F2?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/services/deploy?type=docker&image=docker.io/fxastro/fxop-md&name=slg-md-demo&env[SESSION_ID]=SLG~&env[BOT_INFO]=SLG;SLG-MD&env[SUDO]=237693755398&env[ANTILINK]=true&env[PORT]=8000&service_type=worker)
 
 Deploy to Koyeb using Docker images for more control over the environment configuration. [Create Account](https://app.koyeb.com/auth/signup)
 
