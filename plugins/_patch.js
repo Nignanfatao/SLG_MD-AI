@@ -87,7 +87,7 @@ command(
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: "12036341612745@newsletter",
+            newsletterJid: "120363350159688817@newsletter",
             newsletterName: `Version ${require("../package.json").version}`,
           },
         },
@@ -101,7 +101,7 @@ command(
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterJid: "120363321612745@newsletter",
+              newsletterJid: "120363350159688817@newsletter",
               newsletterName: `Version ${require("../package.json").version}`,
             },
           },
