@@ -19,7 +19,7 @@
 
 <br>
 
-<p> if your session have [ SLG~ ] remove this symbol in session var if you don't do it you will ( SLG~)×2 </p><br>
+<p><h2>if your session have [ SLG~ ] remove this symbol in session var if you don't do it you will ( SLG~)×2</h2></p><br>
 </detail>
 ---
 
