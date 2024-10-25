@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href='https://fx-session-966bdc8172d5.herokuapp.com/code' target="_blank">
+    <a href='https://influential-doralynn-toge-tech-8d10302a.koyeb.app/' target="_blank">
         <img alt='SESSION' src='https://img.shields.io/badge/Get%20Session%20ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/>
     </a>
      <a href="https://whatsapp.com/channel/0029VasVEo9LI8YX7dzjJp0E">
