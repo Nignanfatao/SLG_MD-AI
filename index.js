@@ -10,7 +10,7 @@ global.__basedir = __dirname;
 async function initialize() {
   try {
     await ensureSessionDirectory();
-    await saveCreds();
+    await saveCreds(config.SESSION_ID);
     await parseDir(path.join(__dirname, "/lib/database/"));
     console.log("Syncing Database");
     await config.DATABASE.sync();
