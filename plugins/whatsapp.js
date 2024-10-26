@@ -18,6 +18,27 @@ command(
 
 command(
  {
+  pattern: 'save ?(.*)',
+  desc: 'Saves WhatsApp Status',
+  type: 'whatsapp',
+ },
+ async (message, match, m, client) => {
+  if (!message.reply_message?.image && !message.reply_message.video && !message.reply_message.audio) return await message.reply('_Reply to a status message with media_');
+  const relayOptions = {
+   messageId: m.quoted.key.id,
+   quoted: {
+    key: m.quoted.key,
+    message: m.quoted.message,
+    participant: m.quoted.participant,
+   },
+  };
+  return await client.relayMessage(message.user, m.quoted.message, relayOptions);
+ }
+);
+
+
+command(
+ {
   pattern: 'clear ?(.*)',
   desc: 'delete whatsapp chat',
   type: 'whatsapp',
