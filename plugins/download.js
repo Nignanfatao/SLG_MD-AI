@@ -1,5 +1,6 @@
 const { command, mode, getBuffer, toAudio, IronMan } = require("../lib");
 const ScrapeDl = require("../lib/scraper");
+const { yta, ytv, ytsdl } = require("../lib/ytdl");
 command(
   {
     pattern: "fb",
@@ -93,7 +94,7 @@ command(
 
 command(
   {
-    pattern: "ytv",
+    pattern: "ytvideo",
     fromeMe: mode,
     desc: "Downloads Youtube Videos",
     type: "download",
@@ -108,7 +109,7 @@ command(
 
 command(
   {
-    pattern: "yta",
+    pattern: "ytaudio",
     fromMe: mode,
     desc: "Download Youtube Music Audio",
     type: "download",
@@ -132,7 +133,7 @@ command(
   async (message, match) => {
     match = match || message.reply_message.text;
     if (!match) return await message.reply("Give me a query");
-    let { dlink, title } = await ScrapeDl.youtube(match, "video");
+    let { dlink, title } = await ytsdl(match, "video");
     await message.reply(`_Downloading ${title}_`);
     return await message.sendMessage(
       message.jid,
@@ -157,7 +158,7 @@ command(
   async (message, match) => {
     match = match || message.reply_message.text;
     if (!match) return await message.reply("Give me a query");
-    let { dlink, title } = await ScrapeDl.ytmp3(match);
+    let { dlink, title } = await ytsdl(match);
     await message.reply(`_Downloading ${title}_`);
     let buff = await getBuffer(dlink);
     return await message.sendMessage(
