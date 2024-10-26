@@ -9,7 +9,7 @@ global.__basedir = __dirname;
 
 async function initialize() {
   try {
-    await writeSession();
+    await saveCreds();
     await parseDir(path.join(__dirname, "/lib/database/"));
     console.log("Syncing Database");
     await config.DATABASE.sync();
