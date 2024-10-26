@@ -1,6 +1,6 @@
 const { command, AddMp3Meta, isUrl, getJson, validateQuality, mode, getBuffer, toAudio, IronMan } = require("../lib");
 const ScrapeDl = require("../lib/scraper");
-const { yta, ytv, ytsdl } = require("../lib/ytdl");
+// const { yta, ytv, ytsdl } = require("../lib/ytdl");
 command(
   {
     pattern: "fb",
@@ -122,7 +122,7 @@ command(
   },
 );
 
-
+/*
 command(
   {
     pattern: "video",
@@ -145,9 +145,9 @@ command(
       "video"
     );
   }
-); 
+); */
  
-
+/*
 command(
   {
     pattern: "song",
@@ -171,8 +171,9 @@ command(
       "audio"
     );
   }
-); 
+); */
 
+ /*
 command(
   {
     pattern: "yta",
@@ -244,7 +245,7 @@ command(
       "video"
     );
   }
-);
+); */
 
 
 command(
