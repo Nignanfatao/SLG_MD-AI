@@ -28,6 +28,35 @@ command(
 );
 
 command(
+ {
+  pattern: 'mention ?(.*)',
+  desc: 'Set or show mention response (customizable)',
+  type: 'user',
+ },
+ async (message, match, m) => {
+  if (!message.mode) return;
+  if (message.isban) return message.reply(ban);
+  if (!message.owner) return message.reply(owner);
+  const args = message.text.split(' ').slice(1);
+  const newMessage = args.join(' ');
+  if (newMessage.length > 0) {
+   const currentMentionMessage = await getMentionMessage();
+
+   if (currentMentionMessage) {
+    await updateMentionMessage(currentMentionMessage.messageId, newMessage);
+   } else {
+    await addMentionMessage(newMessage);
+   }
+   await message.reply(`*_Mention Updated_*`);
+  } else {
+   const mentionMessage = await getMentionMessage();
+   const responseMessage = mentionMessage || 'Hello @user, I was mentioned!';
+   await message.send(responseMessage);
+  }
+ }
+);
+
+command(
   {
     pattern: "resume",
     fromMe: mode,
