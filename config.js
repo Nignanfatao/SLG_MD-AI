@@ -3,12 +3,12 @@ require("dotenv").config();
 const toBool = (x) => x === "true";
 const DATABASE_URL = process.env.DATABASE_URL || "./database.db";
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || "SLG_MD_WABOT&MVzNEt0MpodPF56h5_q7V8PW1U-nv_vwmQp10zkkgco",
+  SESSION_ID: process.env.SESSION_ID || "SLG&MVzNEt0MpodPF56h5_q7V8PW1U-nv_vwmQp10zkkgco",
   HANDLERS:
     process.env.HANDLER === "false" || process.env.HANDLER === "null"
       ? "^"
       : "[.]",
-   PREFIX: process.env.PREFIX || "SLG_MD_WABOT&",
+   PREFIX: process.env.PREFIX || "SLG&",
   BOT_INFO: process.env.BOT_INFO || "SLG;SLG-MD;https://files.catbox.moe/uih7xz.jpg", //YourName;BotName;Image/VideoLink
   SUDO: process.env.SUDO || "237693755398,237620066719",
   TIME_ZONE: process.env.TIME_ZONE || "Africa/Lagos",
