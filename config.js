@@ -8,7 +8,7 @@ module.exports = {
     process.env.HANDLER === "false" || process.env.HANDLER === "null"
       ? "^"
       : "[.]",
-   PREFIX: process.env.PREFIX || "IRON-M4N×",
+   PREFIX: process.env.PREFIX || "SLG_MD_WABOT&",
   BOT_INFO: process.env.BOT_INFO || "SLG;SLG-MD;https://files.catbox.moe/uih7xz.jpg", //YourName;BotName;Image/VideoLink
   SUDO: process.env.SUDO || "237693755398,237620066719",
   TIME_ZONE: process.env.TIME_ZONE || "Africa/Lagos",
