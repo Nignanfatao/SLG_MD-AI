@@ -1,4 +1,4 @@
-const { command, mode, getBuffer, toAudio, IronMan } = require("../lib");
+const { command, AddMp3Meta, validateQuality, mode, getBuffer, toAudio, IronMan } = require("../lib");
 const ScrapeDl = require("../lib/scraper");
 const { yta, ytv, ytsdl } = require("../lib/ytdl");
 command(
