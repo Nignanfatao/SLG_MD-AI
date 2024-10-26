@@ -18,6 +18,29 @@ command(
 
 command(
  {
+  pattern: 'clear ?(.*)',
+  desc: 'delete whatsapp chat',
+  type: 'whatsapp',
+ },
+ async (message, match, m, client) => {
+  await client.chatModify(
+   {
+    delete: true,
+    lastMessages: [
+     {
+      key: message.data.key,
+      messageTimestamp: message.timestamp,
+     },
+    ],
+   },
+   message.jid
+  );
+  await message.reply('_Cleared.._');
+ }
+);
+
+command(
+ {
   pattern: 'kamui ?(.*)',
   fromMe: mode,
   desc: 'Downloads ViewOnce Messages in dm',
