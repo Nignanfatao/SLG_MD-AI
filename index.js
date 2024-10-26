@@ -3,7 +3,7 @@ const fs = require("fs").promises;
 const path = require("path");
 const express = require("express");
 const config = require("./config");
-const { connect, writeSession, patch, parseDir } = require("./lib");
+const { connect, saveCreds, patch, parseDir } = require("./lib");
 const { getandRequirePlugins } = require("./lib/database/plugins");
 global.__basedir = __dirname;
 
