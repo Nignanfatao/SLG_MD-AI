@@ -19,6 +19,7 @@ command(
 command(
  {
   pattern: 'kamui ?(.*)',
+  fromMe: mode,
   desc: 'Downloads ViewOnce Messages in dm',
   type: 'whatsapp',
  },
