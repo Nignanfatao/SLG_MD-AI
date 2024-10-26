@@ -17,6 +17,20 @@ command(
 );
 
 command(
+ {
+  pattern: 'kamui ?(.*)',
+  desc: 'Downloads ViewOnce Messages in dm',
+  type: 'whatsapp',
+ },
+ async (message) => {
+  if (!message.reply_message.viewonce) return message.reply('_Reply A ViewOnce Message!_');
+  const content = await message.download(message.reply_message.data);
+  await message.send(content.buffer, { jid: message.participant });
+  return message.reply('_Substituer, Check your Dm Sir_');
+ }
+);
+
+command(
   {
     on: "text",
     fromMe: !STATUS_SAVER,
