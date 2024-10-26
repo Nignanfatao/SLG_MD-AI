@@ -3,7 +3,7 @@ require("dotenv").config();
 const toBool = (x) => x === "true";
 const DATABASE_URL = process.env.DATABASE_URL || "./database.db";
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || "SLG~EDMtpe6w",
+  SESSION_ID: process.env.SESSION_ID || "SLG_MD_WABOT&MVzNEt0MpodPF56h5_q7V8PW1U-nv_vwmQp10zkkgco",
   HANDLERS:
     process.env.HANDLER === "false" || process.env.HANDLER === "null"
       ? "^"
