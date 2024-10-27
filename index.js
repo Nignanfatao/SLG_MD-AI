@@ -1,4 +1,3 @@
-
 const fs = require("fs").promises;
 const path = require("path");
 const express = require("express");
@@ -19,7 +18,7 @@ async function initialize() {
     console.log("External Modules Installed");
     return await connect();
   } catch (error) {
-    console.error("Initialization error:", error);
+    console.error("Initialization error:", error.message);
   }
 }
 
@@ -31,7 +30,9 @@ async function startServer() {
     res.send("Bot Running");
   });
 
-  app.listen(port, () => {});
+  app.listen(port, () => {
+    console.log(`Server is running on port ${port}`);
+  });
 }
 
 async function tempDir() {
@@ -51,8 +52,8 @@ async function main() {
     await startServer();
     await tempDir();
   } catch (error) {
-    console.warn("BOT SYSTEM FAILED");
+    console.warn("BOT SYSTEM FAILED:", error.message);
   }
 }
 
-main(); 
+main();
